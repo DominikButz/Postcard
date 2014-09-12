@@ -12,6 +12,8 @@
 		B4EF317019C03B9D001A3592 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4EF316E19C03B9D001A3592 /* Main.storyboard */; };
 		B4EF317219C03B9D001A3592 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4EF317119C03B9D001A3592 /* Images.xcassets */; };
 		B4EF317E19C03B9D001A3592 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EF317D19C03B9D001A3592 /* PostcardTests.swift */; };
+		B4EF318819C04C05001A3592 /* gaudi-barcelona.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4EF318719C04C05001A3592 /* gaudi-barcelona.jpg */; };
+		B4EF318A19C0528D001A3592 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4EF318919C0528D001A3592 /* Albert_Einstein_1979_USSR_Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +36,8 @@
 		B4EF317719C03B9D001A3592 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4EF317C19C03B9D001A3592 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B4EF317D19C03B9D001A3592 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		B4EF318719C04C05001A3592 /* gaudi-barcelona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gaudi-barcelona.jpg"; sourceTree = "<group>"; };
+		B4EF318919C0528D001A3592 /* Albert_Einstein_1979_USSR_Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Albert_Einstein_1979_USSR_Stamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 		B4EF316819C03B9D001A3592 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B4EF318719C04C05001A3592 /* gaudi-barcelona.jpg */,
+				B4EF318919C0528D001A3592 /* Albert_Einstein_1979_USSR_Stamp.jpg */,
 				B4EF316919C03B9D001A3592 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -190,7 +196,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4EF317019C03B9D001A3592 /* Main.storyboard in Resources */,
+				B4EF318819C04C05001A3592 /* gaudi-barcelona.jpg in Resources */,
 				B4EF317219C03B9D001A3592 /* Images.xcassets in Resources */,
+				B4EF318A19C0528D001A3592 /* Albert_Einstein_1979_USSR_Stamp.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
